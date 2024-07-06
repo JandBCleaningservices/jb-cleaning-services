@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+<cabeza>
+<meta juego de caracteres="UTF-8">
+<meta nombre="viewport" content="ancho=ancho-dispositivo, escala-inicial=1.0">
+<title>Servicios de limpieza J&B</title>
+<estilo>
+cuerpo {
+familia de fuentes: Arial, sans-serif;
+margen: 0;
+relleno: 0;
+color de fondo: #f4f4f4;
+color: #333;
+}
+encabezado {
+color de fondo: #4CAF50;
+color blanco;
+relleno: 1em 0;
+alineación de texto: centro;
+}
+navegación {
+pantalla: flexible;
+justificar-contenido: centro;
+color de fondo: #333;
+}
+navegar a {
+color blanco;
+relleno: 14px 20px;
+decoración de texto: ninguna;
+alineación de texto: centro;
+}
+navegación a: flotar {
+color de fondo: #ddd;
+de color negro;
+}
+.envase {
+relleno: 20px;
+}
+.servicios, .acerca de, .contacto {
+margen: 20px 0;
+}
+pie de página {
+color de fondo: #333;
+color blanco;
+alineación de texto: centro;
+relleno: 1em 0;
+posición: fija;
+abajo: 0;
+ancho: 100%;
+}
+</estilo>
+</cabeza>
+<cuerpo>
+
+<encabezado>
+<h1>Servicios de limpieza J&B</h1>
+<p>Ofreciendo los mejores servicios de limpieza en San Diego</p>
+</encabezado>
+
+<nav>
+<a href="#about">Acerca de nosotros</a>
+<a href="#services">Servicios</a>
+<a href="#contact">Contacto</a>
+</nav>
+
+<div class="contenedor">
+<sección id="acerca de" clase="acerca de">
+<h2>Acerca de nosotros</h2>
+<p>Bienvenido a J&B Cleaning Services. Con 9 años de experiencia, brindamos servicios de limpieza de la más alta calidad en San Diego. Nuestro equipo está dedicado a hacer que su espacio esté impecable y cómodo. También nos especializamos en servicios de limpieza de alquileres vacacionales, ya que trabajamos con Stay Alfred en San Diego.</p>
+</sección>
+
+<sección id="servicios" clase="servicios">
+<h2>Nuestros Servicios</h2>
+<ul>
+<li>Limpieza residencial</li>
+<li>Limpieza Comercial</li>
+<li>Limpieza de alquileres vacacionales</li>
+<li>Limpieza de entrada y salida</li>
+</ul>
+</sección>
+
+<sección id="contacto" clase="contacto">
+<h2>Contáctenos</h2>
+<p>Para reservar nuestros servicios o cualquier consulta, por favor contáctenos:</p>
+<p>Correo electrónico: info@jbcleaningservices.com </p>
+<p>Teléfono: (619) 419-9118</p>
+</sección>
+</div>
+
+<pie de página>
+<p>&copiar; 2024 Servicios de limpieza J&B. Todos los derechos reservados.</p>
+</pie de página>
+
+</cuerpo>
+</html>
